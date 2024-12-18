@@ -1,5 +1,6 @@
 # Python virtual environments
 backend_weezleagues/.venv/
+backend_weezleagues/.env
 __pycache__/
 
 # Node modules
